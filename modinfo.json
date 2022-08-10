@@ -9,7 +9,7 @@
 	"versionBuild": 10,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "",
-	"steamVisibility": 2,
+	"steamVisibility": 0,
 	"folderName": "ipsm",
 	"revisionNumber": 348928,
 	"snapshotId": 32447

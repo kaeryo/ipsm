@@ -1,0 +1,16 @@
+{
+	"name": "Ithlinne's Prophecy Server Mod",
+	"description": "Server Mod",
+	"changeNote": "-Added Custom Items that act as runes\n-Added Custom Recipes and Items to used in crafting\n-Added Codex\n-Added Starter Kits\n-Increased stack sizes",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 2022,
+	"versionMinor": 8,
+	"versionBuild": 10,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamVisibility": 2,
+	"folderName": "ipsm",
+	"revisionNumber": 348928,
+	"snapshotId": 32447
+}

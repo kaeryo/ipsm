@@ -1,16 +1,18 @@
 {
 	"name": "Ithlinne's Prophecy Server Mod",
 	"description": "Server Mod",
-	"changeNote": "-added stat maxing pots\n",
+	"changeNote": "-compatibility with 3.0\n-removed sorcery feat\n-adjusted berserker axe recipe",
 	"author": "Kaeryo",
 	"authorUrl": "",
 	"versionMajor": 2022,
 	"versionMinor": 8,
-	"versionBuild": 18,
+	"versionBuild": 30,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2847040301",
+	"steamTestLivePublishedFileId": "",
 	"steamVisibility": 0,
 	"folderName": "ipsm",
-	"revisionNumber": 348928,
-	"snapshotId": 32447
+	"revisionNumber": 408177,
+	"snapshotId": 34671,
+	"fileSize": -2
 }

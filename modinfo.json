@@ -1,18 +1,18 @@
 {
 	"name": "Ithlinne's Prophecy Server Mod",
 	"description": "Server Mod",
-	"changeNote": "-Fixed kit heavy armour package\n-Added monster remains items\n-Possibly solved an issue with hitbox reduction and climbing (Thanks to WalkingSteph for making their source available)\n-Added custom loading screen backgrounds",
+	"changeNote": "-Cook for S1.C2",
 	"author": "Kaeryo",
 	"authorUrl": "",
 	"versionMajor": 2022,
-	"versionMinor": 11,
-	"versionBuild": 14,
+	"versionMinor": 12,
+	"versionBuild": 6,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2847040301",
 	"steamTestLivePublishedFileId": "",
 	"steamVisibility": 0,
 	"folderName": "ipsm",
-	"revisionNumber": 408177,
-	"snapshotId": 34671,
+	"revisionNumber": 437229,
+	"snapshotId": 35533,
 	"fileSize": -2
 }

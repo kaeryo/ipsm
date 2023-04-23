@@ -1,18 +1,18 @@
 {
 	"name": "Ithlinne's Prophecy Server Mod",
 	"description": "Server Mod",
-	"changeNote": "-fix for codex ids\n-flameberge typo fix\n-fix gui category for some weapons\n-added diagrams for flamberge, viroledan blade, dimeritium shackles\n-removed crafting oil recipe from alchemical distillation feat\n",
+	"changeNote": "-typo/description fixes\n-recipe fixes for flamberge, viroledan blade\n-recipes added for huntsmans crossbow, partisan\n-some icon fixes",
 	"author": "Kaeryo",
 	"authorUrl": "",
 	"versionMajor": 2023,
-	"versionMinor": 3,
-	"versionBuild": 2,
+	"versionMinor": 4,
+	"versionBuild": 24,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2847040301",
 	"steamTestLivePublishedFileId": "",
 	"steamVisibility": 0,
 	"folderName": "ipsm",
-	"revisionNumber": 452984,
-	"snapshotId": 36050,
+	"revisionNumber": 469970,
+	"snapshotId": 36602,
 	"fileSize": -2
 }

@@ -1,18 +1,18 @@
 {
 	"name": "Ithlinne's Prophecy Server Mod",
 	"description": "Server Mod",
-	"changeNote": "-typo/description fixes\n-recipe fixes for flamberge, viroledan blade\n-recipes added for huntsmans crossbow, partisan\n-some icon fixes",
+	"changeNote": "-codex updates",
 	"author": "Kaeryo",
 	"authorUrl": "",
 	"versionMajor": 2023,
-	"versionMinor": 4,
-	"versionBuild": 24,
+	"versionMinor": 8,
+	"versionBuild": 2,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2847040301",
 	"steamTestLivePublishedFileId": "",
 	"steamVisibility": 0,
 	"folderName": "ipsm",
-	"revisionNumber": 469970,
-	"snapshotId": 36602,
+	"revisionNumber": 516176,
+	"snapshotId": 37797,
 	"fileSize": -2
 }
